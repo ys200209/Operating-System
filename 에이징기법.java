@@ -119,9 +119,9 @@ public class 에이징기법 {
 	         
 	     } catch (InterruptedException e) {
 	         e.printStackTrace();
-	     }
+	     } 
 	 }
-
+ 
    }
 
 }
